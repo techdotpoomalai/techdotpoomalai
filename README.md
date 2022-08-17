@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning springboot, react, jmeter
 - 💞️ I’m looking to collaborate on Working abroad
 - 📫 How to reach me https://www.linkedin.com/in/techdotpoomalai/
-i am a Engineer
-
+-    Good logical thinker and mathematician
+-    Move on Entrepreneur
 
 <!---
 techdotpoomalai/techdotpoomalai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
