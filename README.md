@@ -1,6 +1,6 @@
 - 👋 Hi, I’m poomalai
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning springboot, react, jmeter
+- 🌱 I’m currently learning Quantum Computing
 - 💞️ I’m looking to collaborate on Working abroad
 - 📫 How to reach me https://www.linkedin.com/in/techdotpoomalai/
 - 🏆 Good logical thinker and mathematician
